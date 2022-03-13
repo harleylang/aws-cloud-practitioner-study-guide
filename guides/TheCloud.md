@@ -17,7 +17,7 @@ concept:
   error:
   - Company-owned computer(s).
   - A laptop.
-  - A local network.
+  - text: A local network.
     rationale: You can create your own local cloud-like architecture, yes. But the concept of the cloud is centered on the premise that you do not necessarily need your own hardware.
   foil:
   - text:
