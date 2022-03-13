@@ -29,5 +29,6 @@ concept:
     - The AWS ecosystem.
     - The Azure ecosystem.
     rationale: A specific company's software offerings is *part* of the cloud but not *the* cloud.
-  hint: "The cloud" refers to the concept of renting server hardware rather than purchasing your own. With that in mind, which option would be the best?
+  hint:
+  - The cloud refers to the concept of renting server hardware rather than purchasing your own. With that in mind, which option would be the best?
 </xprocket-element>
