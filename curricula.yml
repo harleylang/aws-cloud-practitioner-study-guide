@@ -1,5 +1,5 @@
 content:
-  - https://github.com/harleylang/study-guide-aws-cloud-practitioner/blob/main/guides/TheCloud.md
+  - https://raw.githubusercontent.com/harleylang/study-guide-aws-cloud-practitioner/main/guides/TheCloud.md
 meta: 
   - authorship: Harley Lang
   - title: Harley's Study Guide - AWS Cloud Practitioner Notes
